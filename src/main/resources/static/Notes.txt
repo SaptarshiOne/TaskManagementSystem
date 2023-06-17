@@ -1,0 +1,17 @@
+Work notes -->
+
+Add dependencies -
+    Swagger
+    JSON Web Token
+
+Add MY-SQL config
+
+Add custom JDBC connection that returns Connection Object in /config/DbConfig for MY-SQL cpnnection
+
+Add all entities with proper fields - update fields below
+
+Make REST API calls using swagger / POSTMAN to check working
+
+Call should come from Controller -> Service -> Repo
+
+Make Customer controllers
